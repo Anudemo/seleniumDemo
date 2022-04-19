@@ -110,6 +110,7 @@ public class Demo {
 			Thread.sleep(3000);
 			driver.findElement(By.xpath("//*[@id=\"root\"]/div[2]/div[1]/div/div[2]/div[1]/div[1]/span[1]/span"))
 					.click();
+			Thread.sleep(3000);
 			// }
 		}
 	}
